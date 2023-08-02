@@ -25,8 +25,12 @@ import people02 from "./people02.png";
 import people03 from "./people03.png";
 import jewelry from "./jewelry.png";
 import jewelry_logo from "./jewelry_logo.png";
+import jewel_removebg from "./jewel-removebg.png";
+import gemstone from "./gemstone.png";
 
 export {
+  gemstone,
+  jewel_removebg,
   jewelry_logo,
   jewelry,
   airbnb,
