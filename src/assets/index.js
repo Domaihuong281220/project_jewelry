@@ -27,8 +27,10 @@ import jewelry from "./jewelry.png";
 import jewelry_logo from "./jewelry_logo.png";
 import jewel_removebg from "./jewel-removebg.png";
 import gemstone from "./gemstone.png";
+import jewelry2 from "./jewelry2.png";
 
 export {
+  jewelry2,
   gemstone,
   jewel_removebg,
   jewelry_logo,
